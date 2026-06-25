@@ -3,6 +3,7 @@
 
 > **Programa:** Tecnólogo en Análisis y Desarrollo de Software – SENA  
 > **Ficha:** 3114227 | **Autor:** Kevin Andrés Zapata Murillo
+>**Instructor:** Carlos Navia 
 
 ---
 
@@ -70,7 +71,7 @@ device_systems/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/device_systems.git
+git clone https://github.com/KevinZapata77/python_ev11
 cd device_systems
 ```
 
@@ -286,4 +287,3 @@ Esta actividad me permitió comprender que la seguridad en una API REST no es op
 
 ---
 
-*Generado para GA1-220501096-01-AA1-EV11 – SENA 2026*
