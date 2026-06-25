@@ -94,7 +94,6 @@ pip install -r requirements.txt
 ### 4. Configurar variables de entorno
 ```bash
 cp .env.example .env
-# Edita .env y cambia SECRET_KEY por una clave segura:
 # python -c "import secrets; print(secrets.token_hex(32))"
 ```
 
